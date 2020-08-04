@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="646e520b-82f4-484f-a601-f9b1d8917c3f" name="Default Changelist" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/01-01.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/01-01.test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/01-02.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/01-02.test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/01_01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/01_01.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/01_02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/01_02.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/dz/dz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/dz/dz.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/dz/dz.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/dz/dz.test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/lesson1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/lesson1.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/lesson1.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson1/lesson1.test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson2/dz/dz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson2/dz/dz.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson2/dz/dz.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson2/dz/dz.test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson3/dz/dz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson3/dz/dz.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson3/dz/dz.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson3/dz/dz.test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson3/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson3/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson3/lesson3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson3/lesson3.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson3/lesson3.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson3/lesson3.test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson5/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson5/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson5/lesson5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson5/lesson5.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson5/lesson5.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson5/lesson5.test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson6/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson6/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson6/lesson6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson6/lesson6.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson6/lesson6.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/app/lesson6/lesson6.test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/jest.config.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/webpack.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/native/dist/webpack.dev.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/lesson/todolist/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/social/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/social/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/social/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/social/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/social/.idea/social.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/social/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/social/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NativeJS" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1fHbFF5XrWIKSHvGBfvODa6QRTt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\rank2\Desktop\JS\Frontend\social\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="es6.move.members.recent.items">
+      <recent name="C:\Users\rank2\Desktop\JS\TodoList\src\EditableSpan.tsx" />
+      <recent name="C:\Users\rank2\Desktop\JS\TodoList\src\AddItemForm.tsx" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/TodoList/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (2)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Accordion/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/SocialNetwork/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Accordion/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.start (1)" />
+        <item itemvalue="npm.start (2)" />
+        <item itemvalue="npm.storybook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="646e520b-82f4-484f-a601-f9b1d8917c3f" name="Default Changelist" comment="" />
+      <created>1595877859838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595877859838</updated>
+      <workItem from="1595877864118" duration="2456000" />
+      <workItem from="1596050441944" duration="34000" />
+      <workItem from="1596050545218" duration="3771000" />
+      <workItem from="1596126249097" duration="9835000" />
+      <workItem from="1596212392259" duration="28184000" />
+      <workItem from="1596314244614" duration="23000" />
+      <workItem from="1596360467327" duration="11195000" />
+      <workItem from="1596392361513" duration="2452000" />
+      <workItem from="1596473127081" duration="13265000" />
+      <workItem from="1596541905766" duration="2319000" />
+      <workItem from="1596544242574" duration="899000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1595878206484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595878206484</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1595878742239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595878742239</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1596054111776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596054111776</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1596139879584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596139879584</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit">
+      <created>1596287402250</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596287402250</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit">
+      <created>1596291057238</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596291057238</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit">
+      <created>1596312562399</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596312562399</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit">
+      <created>1596314124363</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596314124363</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit">
+      <created>1596392405663</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596392405663</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit">
+      <created>1596483237143</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596483237143</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Commit">
+      <created>1596487053964</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596487053964</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Commit">
+      <created>1596544762165</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596544762165</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="343" key="#Notifications" timestamp="1596544720003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1596544720003" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1596287391557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596287391557" />
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1596544693314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596544693314" />
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1596544226254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596544226254" />
+    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1596544226253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596544226253" />
+    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1596544226253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596544226253" />
+    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1596544226254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596544226254" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1596544738670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596544738670" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1596544772679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596544772679" />
+  </component>
+</project>

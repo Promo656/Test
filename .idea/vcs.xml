@@ -9,5 +9,6 @@
     <mapping directory="$PROJECT_DIR$/NativeJS" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SocialNetwork" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TodoList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework" vcs="Git" />
   </component>
 </project>
