@@ -20,15 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="646e520b-82f4-484f-a601-f9b1d8917c3f" name="Default Changelist" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/homework/src/Components/Header/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/src/Components/PreJun/PreJunior.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/Components/PreJun/Common/Common.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/Components/PreJun/Common/Common.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/Components/PreJun/Input/Input.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/Components/PreJun/Input/Input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/Components/PreJun/Message/Message.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/Components/PreJun/Tasks/Tasks.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/Components/PreJun/Tasks/Tasks.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/App.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/src/Components/ApperJunior.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/Components/ApperJun/ApperJunior.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/src/Components/Header.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/src/Components/Junior.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/Components/Jun/Junior.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/src/Components/PreJunior.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/Components/PreJun/PreJunior.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/homework/03-input/Input.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/homework/03-input/Input.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/homework/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/homework/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/src/Components/PreJun/PreJunior.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/Components/PreJun/Message/Message.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/src/Components/PreJun/PreJunior.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/Components/PreJun/PreJunior.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +45,7 @@
         <entry key="$PROJECT_DIR$/homework" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homework" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SocialNetwork" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1fHbFF5XrWIKSHvGBfvODa6QRTt" />
@@ -58,29 +62,32 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework/src/Components/PreJun" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework/src/Components/PreJun/Common" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="C:\Users\rank2\Desktop\JS\Frontend\social\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\Header" />
-      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\ApperJun" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\PreJun\Common" />
+      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\PreJun\Input" />
+      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\PreJun\Tasks" />
       <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\PreJun" />
-      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\Jun" />
-      <recent name="C:\Users\rank2\Desktop\JS\TodoList\src\repeat" />
+      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components" />
     </key>
     <key name="es6.move.members.recent.items">
+      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\PreJun\Message\Message.tsx" />
       <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\PreJunior.tsx" />
       <recent name="C:\Users\rank2\Desktop\JS\TodoList\src\repeat\AddItem.tsx" />
       <recent name="C:\Users\rank2\Desktop\JS\TodoList\src\EditableSpan.tsx" />
       <recent name="C:\Users\rank2\Desktop\JS\TodoList\src\AddItemForm.tsx" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\PreJun\Message" />
+      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\Header" />
+      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\ApperJun" />
       <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\PreJun" />
-      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components" />
-      <recent name="C:\Users\rank2\Desktop\JS\Accordion\src\components\Select" />
+      <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\Jun" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -169,7 +176,10 @@
       <workItem from="1596546487391" duration="5861000" />
       <workItem from="1596553502980" duration="8782000" />
       <workItem from="1596644205518" duration="12747000" />
-      <workItem from="1596742097440" duration="1347000" />
+      <workItem from="1596742097440" duration="3295000" />
+      <workItem from="1596745435661" duration="276000" />
+      <workItem from="1596745728832" duration="443000" />
+      <workItem from="1596828575310" duration="1826000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1595878206484</created>
@@ -297,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596658709289</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Commit">
+      <created>1596743622031</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1596743622031</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,30 +353,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596545169102" />
-    <state width="1899" height="278" key="GridCell.Tab.0.bottom" timestamp="1596742439276">
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom" timestamp="1596828734686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596742439276" />
-    <state width="1899" height="278" key="GridCell.Tab.0.center" timestamp="1596742439276">
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596828734686" />
+    <state width="1899" height="278" key="GridCell.Tab.0.center" timestamp="1596828734685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596742439276" />
-    <state width="1899" height="278" key="GridCell.Tab.0.left" timestamp="1596742439276">
+    <state width="1899" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596828734685" />
+    <state width="1899" height="278" key="GridCell.Tab.0.left" timestamp="1596828734685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596742439276" />
-    <state width="1899" height="278" key="GridCell.Tab.0.right" timestamp="1596742439276">
+    <state width="1899" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596828734685" />
+    <state width="1899" height="278" key="GridCell.Tab.0.right" timestamp="1596828734686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596742439276" />
+    <state width="1899" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596828734686" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1596546498443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596546498443" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1596658714878">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1596743625472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596658714878" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596743625472" />
     <state x="652" y="376" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596545616142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
