@@ -20,19 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="646e520b-82f4-484f-a601-f9b1d8917c3f" name="Default Changelist" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Right/RightNav.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Right/RightNav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/info/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/info/bgfoto.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SocialNetwork/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/App.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Nav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Left/LeftNav.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Left/LeftNav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Left/LeftNav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Left/LeftNav.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Right/RightNav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Right/RightNav.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Main.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Wall/NewPost/NewPostContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Wall/NewPost/NewPostContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/info/ProfileInfo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/info/ProfileInfo.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/info/ProfileInfo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/info/ProfileInfo.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/setupTests.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +181,8 @@
       <workItem from="1596964803223" duration="3534000" />
       <workItem from="1597170734905" duration="1914000" />
       <workItem from="1597492064966" duration="958000" />
-      <workItem from="1597682710016" duration="3531000" />
+      <workItem from="1597682710016" duration="8190000" />
+      <workItem from="1597779590020" duration="1589000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1595878206484</created>
@@ -347,7 +345,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597173962256</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Commit">
+      <created>1597690868432</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1597690868432</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Commit">
+      <created>1597690917666</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1597690917666</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,30 +398,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596545169102" />
-    <state width="1899" height="278" key="GridCell.Tab.0.bottom" timestamp="1597687876409">
+    <state width="931" height="275" key="GridCell.Tab.0.bottom" timestamp="1597779624449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597687876409" />
-    <state width="1899" height="278" key="GridCell.Tab.0.center" timestamp="1597687876409">
+    <state width="931" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597779624449" />
+    <state width="931" height="275" key="GridCell.Tab.0.center" timestamp="1597779624448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597687876409" />
-    <state width="1899" height="278" key="GridCell.Tab.0.left" timestamp="1597687876409">
+    <state width="931" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597779624448" />
+    <state width="931" height="275" key="GridCell.Tab.0.left" timestamp="1597779624448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597687876409" />
-    <state width="1899" height="278" key="GridCell.Tab.0.right" timestamp="1597687876409">
+    <state width="931" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597779624448" />
+    <state width="931" height="275" key="GridCell.Tab.0.right" timestamp="1597779624449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597687876409" />
+    <state width="931" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597779624449" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1596546498443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596546498443" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1597173966905">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1597690930520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597173966905" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597690930520" />
     <state x="652" y="376" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596545616142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
