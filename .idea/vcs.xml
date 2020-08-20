@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/DailyTask" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Frontend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Frontend/forks/first-contributions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Portfolio" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SocialNetwork" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TodoList" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/homework" vcs="Git" />
