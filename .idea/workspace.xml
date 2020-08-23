@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="646e520b-82f4-484f-a601-f9b1d8917c3f" name="Default Changelist" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Dialogs/DialogsItem/Dialog.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Dialogs/Dialogs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Dialogs/Dialogs.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Dialogs/DialogsItem/Dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Dialogs/DialogsItem/Dialog.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Left/LeftNav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Left/LeftNav.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/Redux/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/Redux/store.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/SocialNetwork/src/components/Dialogs/DialogsItem" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="C:\Users\rank2\Desktop\JS\Frontend\lesson\accordion\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\rank2\Desktop\JS\Frontend\social\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -181,7 +179,8 @@
       <workItem from="1597951033132" duration="3100000" />
       <workItem from="1598095194743" duration="668000" />
       <workItem from="1598095883231" duration="367000" />
-      <workItem from="1598096762774" duration="8303000" />
+      <workItem from="1598096762774" duration="8341000" />
+      <workItem from="1598179685657" duration="9119000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1595878206484</created>
@@ -379,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598103850233</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Commit">
+      <created>1598125114618</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1598125114618</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,10 +420,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597951591602" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1596287391557">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1598183274087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596287391557" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598183274087" />
     <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1597951332768">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -430,30 +436,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="215" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598096146091" />
-    <state width="1899" height="277" key="GridCell.Tab.0.bottom" timestamp="1598106179844">
+    <state width="1899" height="277" key="GridCell.Tab.0.bottom" timestamp="1598180280967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598106179844" />
-    <state width="1899" height="277" key="GridCell.Tab.0.center" timestamp="1598106179844">
+    <state width="1899" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598180280967" />
+    <state width="1899" height="277" key="GridCell.Tab.0.center" timestamp="1598180280966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598106179844" />
-    <state width="1899" height="277" key="GridCell.Tab.0.left" timestamp="1598106179844">
+    <state width="1899" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598180280966" />
+    <state width="1899" height="277" key="GridCell.Tab.0.left" timestamp="1598180280966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598106179844" />
-    <state width="1899" height="277" key="GridCell.Tab.0.right" timestamp="1598106179844">
+    <state width="1899" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598180280966" />
+    <state width="1899" height="277" key="GridCell.Tab.0.right" timestamp="1598180280967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598106179844" />
+    <state width="1899" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598180280967" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1596546498443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596546498443" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1598125106874">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1598125119870">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598125106874" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598125119870" />
     <state x="652" y="376" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596545616142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
