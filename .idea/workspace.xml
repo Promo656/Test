@@ -20,12 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="646e520b-82f4-484f-a601-f9b1d8917c3f" name="Default Changelist" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/SocialNetwork/src/StoreContext.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Dialogs/DialogsContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Friends/FriendsContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Wall/ProfileWallContainer.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SocialNetwork/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/Redux/chatReducer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/Redux/chatReducer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/Redux/friendsReducer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/Redux/friendsReducer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/Redux/postReducer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/Redux/postReducer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/Redux/redux-store.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/Redux/redux-store.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/StoreContext.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Dialogs/Dialogs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Dialogs/Dialogs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Dialogs/DialogsContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Dialogs/DialogsContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Friends/Friends.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Friends/Friends.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Wall/NewPost/NewPost.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Wall/NewPost/NewPost.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Wall/NewPost/NewPostContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Wall/NewPost/NewPostContainer.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Wall/ProfileWall.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Wall/ProfileWall.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SocialNetwork/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/index.tsx" afterDir="false" />
@@ -59,7 +69,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SocialNetwork/src/components/Dialogs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SocialNetwork/src/components/Profile/Wall" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="C:\Users\rank2\Desktop\JS\Frontend\social\node_modules\typescript\lib" />
@@ -67,11 +77,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Profile\Wall" />
+      <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Friends" />
       <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Dialogs" />
       <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Profile\Wall\NewPost" />
       <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Groups" />
-      <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\Redux" />
-      <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Dialogs\DialogsItem" />
     </key>
     <key name="es6.move.members.recent.items">
       <recent name="C:\Users\rank2\Desktop\JS\homework\src\Components\PreJun\Message\Message.tsx" />
@@ -195,6 +205,10 @@
       <workItem from="1598469713055" duration="3586000" />
       <workItem from="1598473336114" duration="1015000" />
       <workItem from="1598623099314" duration="16892000" />
+      <workItem from="1598775823007" duration="4624000" />
+      <workItem from="1598780933849" duration="166000" />
+      <workItem from="1598781125716" duration="330000" />
+      <workItem from="1598781478112" duration="9505000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1595878206484</created>
@@ -486,9 +500,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="715" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1598095724293" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597951591602">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598780886099">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598780886099" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597951591602" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1598183274087">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -506,29 +521,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="215" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598096146091" />
-    <state width="1899" height="275" key="GridCell.Tab.0.bottom" timestamp="1598728409733">
+    <state width="1882" height="272" key="GridCell.Tab.0.bottom" timestamp="1598784975976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301962390" />
-    <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598728409732" />
+    <state width="1882" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598784975976" />
     <state width="1899" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598180280967" />
-    <state width="1899" height="275" key="GridCell.Tab.0.center" timestamp="1598728409732">
+    <state width="1882" height="272" key="GridCell.Tab.0.center" timestamp="1598784975976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301962390" />
-    <state width="1899" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598728409732" />
+    <state width="1882" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598784975976" />
     <state width="1899" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598180280966" />
-    <state width="1899" height="275" key="GridCell.Tab.0.left" timestamp="1598728409732">
+    <state width="1882" height="272" key="GridCell.Tab.0.left" timestamp="1598784975976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301962390" />
-    <state width="1899" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598728409732" />
+    <state width="1882" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598784975976" />
     <state width="1899" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598180280966" />
-    <state width="1899" height="275" key="GridCell.Tab.0.right" timestamp="1598728409732">
+    <state width="1882" height="272" key="GridCell.Tab.0.right" timestamp="1598784975976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301962390" />
-    <state width="1899" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598728409732" />
+    <state width="1882" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598784975976" />
     <state width="1899" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598180280967" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1596546498443">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -548,6 +563,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="736" y="292" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598289623819" />
+    <state x="616" y="242" key="run.anything.popup" timestamp="1598785323159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="242" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598785323159" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598724097971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
