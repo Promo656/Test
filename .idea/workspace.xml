@@ -19,18 +19,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="646e520b-82f4-484f-a601-f9b1d8917c3f" name="Default Changelist" comment="Fixed Works,Skill, ContactMe">
-      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/AboutMe/AboutMe.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/AboutMe/AboutMe.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Resume.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Resume.tsx" afterDir="false" />
+    <list default="true" id="646e520b-82f4-484f-a601-f9b1d8917c3f" name="Default Changelist" comment="Create Resume, AboutMe. Fixed Skill, Welcome">
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Education/Education.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Education/Education.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Employment/Employment.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Employment/Employment.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Skills/Skill/Skill.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Skills/Skill/Skill.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Skills/Skills.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Skills/Skills.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portfolio/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Header/Header.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Header/Header.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Skills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/components/Skills/Skills.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/AboutMe/AboutMe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/components/AboutMe/AboutMe.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/AboutMe/AboutMe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/components/AboutMe/AboutMe.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Resume/Resume.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Resume.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Skills/Skill/Skill.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Skills/Skill/Skill.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Skills/Skills.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Skills/Skills.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Welcome/Welcome.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/components/Welcome/Welcome.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Welcome/Welcome.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/components/Welcome/Welcome.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +68,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Portfolio/src/components/AboutMe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Portfolio/src/components/Resume/Employment" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="C:\Users\rank2\Desktop\JS\Frontend\social\node_modules\typescript\lib" />
@@ -69,11 +76,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Resume\Employment" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Resume\Education" />
       <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\AboutMe" />
       <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Resume" />
       <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Profile" />
-      <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Common\PreLoader" />
-      <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Friends" />
     </key>
     <key name="es6.move.members.recent.items">
       <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Friends\FriendsList\FriendsList.tsx" />
@@ -222,14 +229,10 @@
       <workItem from="1600714202541" duration="1337000" />
       <workItem from="1600715849176" duration="3623000" />
       <workItem from="1600795489641" duration="7419000" />
-      <workItem from="1600826939816" duration="5433000" />
-    </task>
-    <task id="LOCAL-00009" summary="Commit">
-      <created>1596392405663</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1596392405663</updated>
+      <workItem from="1600826939816" duration="5560000" />
+      <workItem from="1600881882631" duration="501000" />
+      <workItem from="1600882426941" duration="5065000" />
+      <workItem from="1600887815840" duration="1889000" />
     </task>
     <task id="LOCAL-00010" summary="Commit">
       <created>1596483237143</created>
@@ -567,7 +570,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600802883480</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Create Resume, AboutMe. Fixed Skill, Welcome">
+      <created>1600832485628</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1600832485628</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -593,7 +603,8 @@
     <MESSAGE value="Commit" />
     <MESSAGE value="Fixed SkillBlock 1.0" />
     <MESSAGE value="Fixed Works,Skill, ContactMe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Works,Skill, ContactMe" />
+    <MESSAGE value="Create Resume, AboutMe. Fixed Skill, Welcome" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Resume, AboutMe. Fixed Skill, Welcome" />
   </component>
   <component name="WindowStateProjectService">
     <state x="715" y="343" key="#Notifications" timestamp="1598095724293">
@@ -610,9 +621,10 @@
     </state>
     <state x="92" y="92" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598990465823" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598183274087" />
-    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1597951332768">
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1600882367908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600882367908" />
     <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597951332768" />
     <state x="838" y="417" key="Github.ShareDialog" timestamp="1598096240070">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -622,29 +634,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="215" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598096146091" />
-    <state width="1899" height="275" key="GridCell.Tab.0.bottom" timestamp="1600830779861">
+    <state width="1899" height="275" key="GridCell.Tab.0.bottom" timestamp="1600887878734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301962390" />
-    <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600830779861" />
+    <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600887878734" />
     <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599068255851" />
-    <state width="1899" height="275" key="GridCell.Tab.0.center" timestamp="1600830779861">
+    <state width="1899" height="275" key="GridCell.Tab.0.center" timestamp="1600887878733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301962390" />
-    <state width="1899" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600830779861" />
+    <state width="1899" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600887878733" />
     <state width="1899" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599068255851" />
-    <state width="1899" height="275" key="GridCell.Tab.0.left" timestamp="1600830779861">
+    <state width="1899" height="275" key="GridCell.Tab.0.left" timestamp="1600887878733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301962390" />
-    <state width="1899" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600830779861" />
+    <state width="1899" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600887878733" />
     <state width="1899" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599068255851" />
-    <state width="1899" height="275" key="GridCell.Tab.0.right" timestamp="1600830779861">
+    <state width="1899" height="275" key="GridCell.Tab.0.right" timestamp="1600887878734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301962390" />
-    <state width="1899" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600830779861" />
+    <state width="1899" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600887878734" />
     <state width="1899" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599068255851" />
     <state x="184" y="86" key="MergeDialog" timestamp="1599993337716">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -658,11 +670,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596546498443" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600802891339">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600832495447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301948965" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600802891339" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600832495447" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598190619802" />
     <state x="652" y="376" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596545616142">
       <screen x="0" y="0" width="1920" height="1040" />
