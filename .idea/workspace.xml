@@ -20,13 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="646e520b-82f4-484f-a601-f9b1d8917c3f" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Welcome/Photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/TestApp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/components/Header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/indexxxx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/src/test.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/AboutMe/AboutMe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/components/AboutMe/AboutMe.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Resume/Education/Education.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Education/Education.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Resume/Employment/Employment.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/components/Resume/Employment/Employment.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Welcome/Welcome.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/components/Welcome/Welcome.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Welcome/Welcome.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/components/Welcome/Welcome.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,19 +60,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Portfolio/src/components/Resume/Employment" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Portfolio/src/components/Header" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="C:\Users\rank2\Desktop\JS\Frontend\social\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Resume\Employment" />
-      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Resume\Education" />
-      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\AboutMe" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Resume" />
-      <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Profile" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Works" />
+      <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Friends" />
+      <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Friends\FriendsList" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Header" />
     </key>
     <key name="es6.move.members.recent.items">
       <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Friends\FriendsList\FriendsList.tsx" />
@@ -78,12 +81,12 @@
       <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\FindNewJob\FindNewJob.tsx" />
       <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Works\Work\Work.tsx" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Resume" />
-      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Works" />
-      <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Friends" />
-      <recent name="C:\Users\rank2\Desktop\JS\SocialNetwork\src\components\Friends\FriendsList" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Header" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Resume\Employment" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Resume\Education" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\AboutMe" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Resume" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -222,14 +225,8 @@
       <workItem from="1600881882631" duration="501000" />
       <workItem from="1600882426941" duration="5065000" />
       <workItem from="1600887815840" duration="3036000" />
-      <workItem from="1601041244692" duration="4547000" />
-    </task>
-    <task id="LOCAL-00012" summary="Commit">
-      <created>1596544762165</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1596544762165</updated>
+      <workItem from="1601041244692" duration="4581000" />
+      <workItem from="1601115650684" duration="4576000" />
     </task>
     <task id="LOCAL-00013" summary="Commit">
       <created>1596545280790</created>
@@ -567,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600890459005</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="commit">
+      <created>1601063824292</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1601063824293</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -626,29 +630,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="215" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598096146091" />
-    <state width="1899" height="275" key="GridCell.Tab.0.bottom" timestamp="1601041258370">
+    <state width="1899" height="275" key="GridCell.Tab.0.bottom" timestamp="1601115717655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301962390" />
-    <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601041258370" />
+    <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601115717655" />
     <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600891529427" />
-    <state width="1899" height="275" key="GridCell.Tab.0.center" timestamp="1601041258370">
+    <state width="1899" height="275" key="GridCell.Tab.0.center" timestamp="1601115717655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301962390" />
-    <state width="1899" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601041258370" />
+    <state width="1899" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601115717655" />
     <state width="1899" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600891529427" />
-    <state width="1899" height="275" key="GridCell.Tab.0.left" timestamp="1601041258369">
+    <state width="1899" height="275" key="GridCell.Tab.0.left" timestamp="1601115717655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301962390" />
-    <state width="1899" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601041258369" />
+    <state width="1899" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601115717655" />
     <state width="1899" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600891529426" />
-    <state width="1899" height="275" key="GridCell.Tab.0.right" timestamp="1601041258370">
+    <state width="1899" height="275" key="GridCell.Tab.0.right" timestamp="1601115717655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301962390" />
-    <state width="1899" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601041258370" />
+    <state width="1899" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601115717655" />
     <state width="1899" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600891529427" />
     <state x="184" y="86" key="MergeDialog" timestamp="1599993337716">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -662,11 +666,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596546498443" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600890471914">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601063830076">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598301948965" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600832495447" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601063830076" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600890471914" />
     <state x="652" y="376" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596545616142">
       <screen x="0" y="0" width="1920" height="1040" />
