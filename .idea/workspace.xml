@@ -20,76 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="646e520b-82f4-484f-a601-f9b1d8917c3f" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/TodoList/src/AppWithRedux.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TodoList/src/AppWithUseState.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TodoList/src/Store/store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TodoList/src/Store/todolistTasksReducer.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoList/src/Task.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accordion/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Accordion/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accordion/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accordion/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accordion/src/serviceWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Accordion/src/serviceWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/github-desktop-tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/github-desktop-tutorial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/github-windows-vs-code-tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/github-windows-vs-code-tutorial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/github-windows-vs2017-tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/github-windows-vs2017-tutorial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/gitkraken-tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/gitkraken-tutorial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.cht.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.cht.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.de.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.de.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.fi.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.fi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.ge.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.ge.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.hi.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.hi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.hu.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.hu.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.lv.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.lv.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.no.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.no.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.sr.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/forks/first-contributions/translations/README.sr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/lesson/accordion/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/lesson/accordion/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/lesson/accordion/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/lesson/accordion/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/lesson/accordion/src/serviceWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/lesson/accordion/src/serviceWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/lesson/todolist/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/lesson/todolist/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/lesson/todolist/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/lesson/todolist/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/lesson/todolist/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/lesson/todolist/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/lesson/todolist/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/lesson/todolist/src/App.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/lesson/todolist/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/lesson/todolist/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/lesson/todolist/src/serviceWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/lesson/todolist/src/serviceWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/social/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/social/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/social/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/social/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/social/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/social/src/App.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/social/src/serviceWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/social/src/serviceWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/src/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/components/Header/Header.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/src/serviceWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/src/serviceWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/serviceWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/serviceWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/API/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/API/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/Redux/authReducer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/Redux/authReducer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Friends/FriendsContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Friends/FriendsContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Left/LeftNav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/SocialNetwork/src/components/Nav/Left/LeftNav.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TodoList/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TodoList/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TodoList/src/AddItemForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/AddItemForm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/App.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoList/src/AppWithRedux.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/AppWithRedux.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TodoList/src/EditableSpan.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/EditableSpan.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/Store/userReducer.test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/Store/userReducer.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/TodoList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoList/src/Store/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/Store/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoList/src/Store/taskReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/Store/taskReducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoList/src/Store/todoListsReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/Store/todoListsReducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoList/src/Todolist.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/Todolist.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TodoList/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/repeat/AddItemForm.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/repeat/EditableSpan.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/repeat/TestApp.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/App.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/repeat/TestApp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/AppWithReducers.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/repeat/Todolist.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/Todolist.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/repeat/taskReducer.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/Store/taskReducer.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/repeat/taskReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/Store/taskReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/repeat/todoListReducer.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/Store/todoListReducer.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/repeat/todoListReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/Store/todoListsReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/serviceWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/src/serviceWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoList/src/setupTests.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/src/serviceWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/serviceWorker.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,26 +75,26 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\rank2\Desktop\JS\TodoList\src" />
-      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Skills\ProfessionalSkills\ProfessionalSkill" />
-      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Skills\ProfessionalSkills" />
-      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Skills\TechnicalSkills" />
-      <recent name="C:\Users\rank2\Desktop\JS\TodoList\src\repeat" />
-    </key>
-    <key name="es6.move.members.recent.items">
-      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Skills\TechnicalSkills\TechnicalSkills.tsx" />
-      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Skills\ProfessionalSkills\ProfessionalSkills.tsx" />
-      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Resume\Skills\ProfessionalSkills\ProfessionalSkills.tsx" />
-      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\Common\Components\PlaceOfWork\PlaceOfWork.tsx" />
-      <recent name="C:\Users\rank2\Desktop\JS\TodoList\src\repeat\EditableSpan.tsx" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rank2\Desktop\JS\TodoList\src\Store" />
       <recent name="C:\Users\rank2\Desktop\JS\TodoList\src" />
       <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Skills\TechnicalSkill\TechnicalSkill" />
       <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Skills\ProfessionalSkills" />
       <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components" />
+    </key>
+    <key name="es6.move.members.recent.items">
+      <recent name="C:\Users\rank2\Desktop\JS\TodoList\src\Task.tsx" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Skills\TechnicalSkills\TechnicalSkills.tsx" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Skills\ProfessionalSkills\ProfessionalSkills.tsx" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Resume\Skills\ProfessionalSkills\ProfessionalSkills.tsx" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\Common\Components\PlaceOfWork\PlaceOfWork.tsx" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rank2\Desktop\JS\TodoList\src" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Skills\ProfessionalSkills\ProfessionalSkill" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Skills\ProfessionalSkills" />
+      <recent name="C:\Users\rank2\Desktop\JS\Portfolio\src\components\Skills\TechnicalSkills" />
+      <recent name="C:\Users\rank2\Desktop\JS\TodoList\src\repeat" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -156,19 +103,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Jest.ids should be equals">
-    <configuration name="correct filter of todolist should be changed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/TodoList/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$/TodoList" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/TodoList/src/repeat/todoListReducer.test.ts" />
-      <test-names>
-        <test-name value="correct filter of todolist should be changed" />
-      </test-names>
-      <method v="2" />
-    </configuration>
     <configuration name="ids should be equals" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -182,21 +116,28 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="propertry with todolistId should be deleted" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/TodoList/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
       <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/TodoList/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$/TodoList" />
       <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/TodoList/src/repeat/taskReducer.test.ts" />
-      <test-names>
-        <test-name value="propertry with todolistId should be deleted" />
-      </test-names>
       <method v="2" />
     </configuration>
     <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/Portfolio/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (2)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/SocialNetwork/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -217,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start (2)" />
+        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.start (1)" />
         <item itemvalue="Jest.ids should be equals" />
-        <item itemvalue="Jest.propertry with todolistId should be deleted" />
-        <item itemvalue="Jest.correct filter of todolist should be changed" />
       </list>
     </recent_temporary>
   </component>
@@ -329,14 +270,8 @@
       <workItem from="1602418659280" duration="3762000" />
       <workItem from="1602422573447" duration="16237000" />
       <workItem from="1602479210406" duration="6776000" />
-      <workItem from="1602488426166" duration="6353000" />
-    </task>
-    <task id="LOCAL-00028" summary="Commit">
-      <created>1598103850233</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1598103850233</updated>
+      <workItem from="1602488426166" duration="6500000" />
+      <workItem from="1602565986010" duration="30086000" />
     </task>
     <task id="LOCAL-00029" summary="Commit">
       <created>1598125114618</created>
@@ -674,7 +609,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602443254605</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="commit">
+      <created>1602535316599</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1602535316599</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -734,41 +676,41 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="215" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598096146091" />
-    <state width="1899" height="171" key="GridCell.Tab.0.bottom" timestamp="1602507234515">
+    <state width="1899" height="171" key="GridCell.Tab.0.bottom" timestamp="1602603360610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="171" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1602422541683" />
-    <state width="1899" height="171" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602507234515" />
+    <state width="1899" height="171" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602603360610" />
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602136985733" />
     <state width="1899" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602075149479" />
     <state width="1899" height="171" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602220698974" />
     <state width="1899" height="171" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602246568071" />
     <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600891529427" />
-    <state width="1899" height="171" key="GridCell.Tab.0.center" timestamp="1602507234515">
+    <state width="1899" height="171" key="GridCell.Tab.0.center" timestamp="1602603360610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="171" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1602422541682" />
-    <state width="1899" height="171" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602507234515" />
+    <state width="1899" height="171" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602603360610" />
     <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602136985733" />
     <state width="1899" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602075149479" />
     <state width="1899" height="171" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602220698974" />
     <state width="1899" height="171" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602246568071" />
     <state width="1899" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600891529427" />
-    <state width="1899" height="171" key="GridCell.Tab.0.left" timestamp="1602507234515">
+    <state width="1899" height="171" key="GridCell.Tab.0.left" timestamp="1602603360610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="171" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1602422541682" />
-    <state width="1899" height="171" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602507234515" />
+    <state width="1899" height="171" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602603360610" />
     <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602136985733" />
     <state width="1899" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602075149479" />
     <state width="1899" height="171" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602220698973" />
     <state width="1899" height="171" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602246568071" />
     <state width="1899" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600891529426" />
-    <state width="1899" height="171" key="GridCell.Tab.0.right" timestamp="1602507234515">
+    <state width="1899" height="171" key="GridCell.Tab.0.right" timestamp="1602603360610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="171" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1602422541683" />
-    <state width="1899" height="171" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602507234515" />
+    <state width="1899" height="171" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602603360610" />
     <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602136985733" />
     <state width="1899" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602075149479" />
     <state width="1899" height="171" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602220698974" />
@@ -850,14 +792,18 @@
     <state x="-1459" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601992032228" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602157497535" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596546498443" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602443269106">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602535335647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602443269106" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602535335647" />
     <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602101636078" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601649996819" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602181109198" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600890471914" />
+    <state x="476" y="113" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602594824209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="476" y="113" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602594824209" />
     <state x="666" y="76" width="587" height="888" key="find.popup" timestamp="1601289386395">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
