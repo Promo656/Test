@@ -19,39 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="646e520b-82f4-484f-a601-f9b1d8917c3f" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/storybook/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/src/App.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/src/serviceWorker.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/src/setupTests.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team-project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/team-project/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-project/src/n1-main/m1-ui/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/team-project/src/n1-main/m1-ui/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-project/src/n1-main/m1-ui/common/registration/registration.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/team-project/src/n1-main/m1-ui/common/registration/registration.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-project/src/n1-main/m2-bll/n1-state/redux-state.ts" beforeDir="false" afterPath="$PROJECT_DIR$/team-project/src/n1-main/m2-bll/n1-state/redux-state.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-project/src/n1-main/m2-bll/n2-reducers/login-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/team-project/src/n1-main/m2-bll/n2-reducers/login-reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-project/src/n1-main/m2-bll/n2-reducers/registration-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/team-project/src/n1-main/m2-bll/n2-reducers/registration-reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-project/src/n1-main/m3-dal/team-api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/team-project/src/n1-main/m3-dal/team-api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-project/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/team-project/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="646e520b-82f4-484f-a601-f9b1d8917c3f" name="Default Changelist" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -298,13 +266,7 @@
       <workItem from="1603381313412" duration="36000" />
       <workItem from="1603386994766" duration="63000" />
       <workItem from="1603459007976" duration="247000" />
-    </task>
-    <task id="LOCAL-00033" summary="Commit">
-      <created>1598301939205</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1598301939205</updated>
+      <workItem from="1604768956464" duration="167000" />
     </task>
     <task id="LOCAL-00034" summary="Commit">
       <created>1598382028100</created>
@@ -642,7 +604,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602865004144</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="commit">
+      <created>1604769102662</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1604769102663</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -819,11 +788,11 @@
     <state x="-1459" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601992032228" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602157497535" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596546498443" />
-    <state x="-1368" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602865016312">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604769120419">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1602865016312" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602699827403" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604769120419" />
     <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602101636078" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601649996819" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602181109198" />
