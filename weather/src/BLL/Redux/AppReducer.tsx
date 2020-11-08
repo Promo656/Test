@@ -33,8 +33,7 @@ export const SetInitializedAC = (): SetInitializedType => ({
     type: SET_INITIALIZED
 })
 //--------------------------------------SET-INITIALIZED-TC-------------------------------
-export const SetInitializedTC = () => async (dispatch: Dispatch) => {
-    let response = await userAPI.getWeather()
-    dispatch(GetDataTC(response))
+export const SetInitializedTC = () =>(dispatch: any) => {
+    dispatch(GetDataTC())
     dispatch(SetInitializedAC())
 }

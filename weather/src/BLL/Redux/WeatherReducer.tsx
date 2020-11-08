@@ -3,12 +3,18 @@ import {userAPI} from "../../DAL/API/api";
 
 type AppActionType = GetDataType
 
-type WeatherType = {
+export type WeatherType = {
     "coord": {
         "lon": number,
         "lat": number
     },
     "weather": [
+        {
+            "id": number,
+            "main": string,
+            "description": string,
+            "icon": string
+        },
         {
             "id": number,
             "main": string,
@@ -58,6 +64,12 @@ const initialState: WeatherType = {
             "main": "",
             "description": "",
             "icon": ""
+        },
+        {
+            "id": 0,
+            "main": "",
+            "description": "",
+            "icon": ""
         }
     ],
     "base": "",
@@ -97,7 +109,19 @@ export const WeatherReducer = (state: WeatherType = initialState, action: AppAct
         case "GET_DATA": {
             return {
                 ...state,
-
+                coord: action.payload.coord,
+                weather:action.payload.weather,
+                base: action.payload.base,
+                main: action.payload.main,
+                visibility: action.payload.visibility,
+                wind:action.payload.wind,
+                clouds:action.payload.clouds,
+                dt:action.payload.dt,
+                sys:action.payload.sys,
+                timezone:action.payload.timezone,
+                id:action.payload.id,
+                name:action.payload.name,
+                cod:action.payload.cod
             }
         }
         default:
@@ -115,6 +139,7 @@ export const GetDataAC = (payload: WeatherType): GetDataType => ({
     payload: payload
 })
 //--------------------------------------GET-DATA-TC-------------------------------
-export const GetDataTC=(payload:WeatherType)=> async (dispatch:Dispatch)=>{
-    dispatch(GetDataAC(payload))
+export const GetDataTC = () => async (dispatch: Dispatch) => {
+    let response = await userAPI.getWeather()
+    dispatch(GetDataAC(response))
 }
