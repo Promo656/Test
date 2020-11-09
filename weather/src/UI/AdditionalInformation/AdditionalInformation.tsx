@@ -1,13 +1,23 @@
 import React from "react";
 import s from "./AdditionalInformation.module.scss"
+import {WeatherType} from "../../BLL/Redux/WeatherReducer";
 
-export function AdditionalInformation() {
+type AdditionalInformationPropsType={
+    weather:WeatherType
+    timeConverter: (time: number) => void
+}
+
+export function AdditionalInformation(props:AdditionalInformationPropsType) {
+    const convert=props.timeConverter
+    const unix=props.weather.sys.sunrise
+    const time=convert(unix)
+
     return (
         <div className={s.wrap}>
             <div>
                 <div>
                     <span>sunrise</span>
-                    <div>6:43</div>
+                    <div>6:56</div>
                 </div>
                 <div>
                     <span>wind</span>
